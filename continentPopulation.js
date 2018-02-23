@@ -61,7 +61,7 @@ d3.json("continentGDP.json", function(error, data) {
         .attr("x", -height/2)
         .attr("dy", "-6em")
         .style("text-anchor", "middle")
-        .text("GDP(Country)");
+        .text("Population(Continent)");
 
 
   // Add bar chart
