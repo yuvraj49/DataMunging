@@ -1,0 +1,27 @@
+{
+  "name": "DataMunging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvraj49/DataMunging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvraj49/DataMunging/issues"
+  },
+  "homepage": "https://github.com/yuvraj49/DataMunging#readme",
+  "dependencies": {
+    "eslint": "^4.18.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
